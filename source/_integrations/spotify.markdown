@@ -127,7 +127,7 @@ data:
   source: "Denon AVR-X2000"
 ```
 
-The Spotify API cannot initiate playback to a device not already known to the Spotify API. The source list of available devices can be found in the Details section of the Spotify Media Player Control and the `source_list` attribute in the {% my developer_states title="Developer Tools States" %}.
+The Spotify API cannot initiate playback to a device not already linked to your Spotify account. The source list of available devices can be found in the Details section of the Spotify Media Player Control and the `source_list` attribute in the {% my developer_states title="Developer Tools States" %}.
 
 ## Playing Spotify playlists
 
